@@ -1,3 +1,5 @@
+# if you're looking for a download link, its here https://github.com/Liberation546/oneshot-scungus-mod/releases/
+
 to install, copy the folders to your oneshot installation and replace everything
 to uninstall, delete everything in your oneshot install and verify integrity of game files
 
